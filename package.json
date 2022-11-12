@@ -1,0 +1,22 @@
+{
+  "name": "week6",
+  "version": "1.0.0",
+  "description": "war",
+  "main": "yes",
+  "scripts": {
+    "test": "random deck shuffle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaksanaT/myGameWar.git"
+  },
+  "keywords": [
+    "shuffle"
+  ],
+  "author": "RT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaksanaT/myGameWar/issues"
+  },
+  "homepage": "https://github.com/RaksanaT/myGameWar#readme"
+}
